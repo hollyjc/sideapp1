@@ -7,5 +7,4 @@
 ## https://trello.com/b/oF9uFVPq/side-app
 ========================================================================
 # Wireframes
- ## ![Image of login]
- (https://github.com/hollyjc/sideapp1/blob/main/login.png)
+ ## [<img width="765" alt="login" src="https://user-images.githubusercontent.com/67769157/97660587-c7504600-1abd-11eb-8650-414ca1e9f67b.png">]
