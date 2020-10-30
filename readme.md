@@ -7,4 +7,11 @@
 ## https://trello.com/b/oF9uFVPq/side-app
 ========================================================================
 # Wireframes
- ## [<img width="765" alt="login" src="https://user-images.githubusercontent.com/67769157/97660587-c7504600-1abd-11eb-8650-414ca1e9f67b.png">]
+ ### Home/Login Page
+ <img width="765" alt="login" src="https://user-images.githubusercontent.com/67769157/97660587-c7504600-1abd-11eb-8650-414ca1e9f67b.png">
+
+### Selection Page
+<img width="721" alt="selection" src="https://user-images.githubusercontent.com/67769157/97660932-b2c07d80-1abe-11eb-89be-99a9e37b5911.png">
+
+### Main Page 
+<img width="837" alt="main" src="https://user-images.githubusercontent.com/67769157/97661000-e4d1df80-1abe-11eb-8368-dae095759a87.png">
