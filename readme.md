@@ -16,7 +16,7 @@
 ### Main Page 
 <img width="837" alt="main" src="https://user-images.githubusercontent.com/67769157/97661000-e4d1df80-1abe-11eb-8368-dae095759a87.png">
 
-### Instructions to install 
+# Instructions to install 
 
 ## Install python3.8
 apt-get install python3.8
