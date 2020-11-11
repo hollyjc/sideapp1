@@ -15,3 +15,27 @@
 
 ### Main Page 
 <img width="837" alt="main" src="https://user-images.githubusercontent.com/67769157/97661000-e4d1df80-1abe-11eb-8368-dae095759a87.png">
+
+# Instructions to install 
+
+## Install python3.8
+apt-get install python3.8
+
+## Clone repo
+https://github.com/hollyjc/sideapp1
+
+## Install Venv
+$ pip install venv
+
+## Create venv
+$ python3.8 -m venv venv
+
+## Activate Venv
+$ source venv/bin/activate 
+
+## Install dependencies 
+$ pip install -r requirements.txt
+
+## Run the application
+$ python src/main.py
+
