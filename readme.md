@@ -44,3 +44,7 @@ $ python src/main.py
 # CI/CD Pipeline
 - I have set up a CI/CD pipeline that will run on Ubuntu latest.
 - The pipeline will run flake8 to ensure correct formatting.
+========================================================================
+# Database
+![DATABASE](https://user-images.githubusercontent.com/67769157/99204314-f75b5100-2800-11eb-9344-502bdba12740.png)
+
